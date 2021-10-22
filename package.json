@@ -1,0 +1,19 @@
+{
+  "name": "aiartathon",
+  "version": "1.0.0",
+  "description": "it is what it is and it ain't what it ain't",
+  "main": "sketch.js",
+  "devDependencies": {
+    "browser-sync": "^2.26.14"
+  },
+  "scripts": {
+    "start": "browser-sync start --server -f -w --no-notify",
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plusk/generative-processing.git"
+  },
+  "author": "",
+  "license": "ISC",
+}
