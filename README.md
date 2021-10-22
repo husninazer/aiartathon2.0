@@ -4,6 +4,10 @@ This repository serves a generative artwork, a website displaying some of that a
 `index.html` provides an entry point for the project, where the `script` tag at the bottom determines which sketch will be viewed.
 
 
+### Sample Display
+![Alt Text](sample/sample.gif)
+
+
 
 ### Setup
 
