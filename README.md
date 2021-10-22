@@ -5,8 +5,9 @@ This repository serves a generative artwork, a website displaying some of that a
 
 
 #### Dependancies
-p5js
-ml5js
+[p5js](https://p5js.org/)
+
+[ml5js](https://ml5js.org/)
 
 
 ### Sample Display
